@@ -1,11 +1,9 @@
-# perceptron2
+# Perceptron & Adaline
 
-Perceptron learning algorithm.
-
-Zero dependencies. Python 3.8+.
+Perceptron & Adaline — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 perceptron2.py --help
+python3 perceptron2.py
 ```
